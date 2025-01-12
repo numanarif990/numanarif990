@@ -1,4 +1,4 @@
-👋 Hi there! I'm Muhammad Numan Arif (@numanarif990)
+👋 Hi there! I'm Muhammad Numan Arif Chudhary (@numanarif990)
 
 🚀 Passionate Developer | Flutter Enthusiast | Web & App Innovator
 
